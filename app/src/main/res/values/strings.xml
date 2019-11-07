@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JoeImageApp</string>
+    <string name="facebook_app_id">569698257138760</string>
+    <string name="fb_login_protocol_scheme">fb569698257138760</string>
+</resources>
